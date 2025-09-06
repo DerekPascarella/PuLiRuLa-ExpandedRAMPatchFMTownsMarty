@@ -22,7 +22,7 @@ The following changes can be observed with "Pu-Li-Ru-La" running in this extende
   <li>The game can keep its bigger graphics and audio in memory, so the four mid-stage CD load pauses disappear, giving seamless play.</li>
 </ul>
 
-<b>⯈ Download Patch:</b> <a href="xxx">Pu-Li-Ru-La (Marty Expanded RAM).zip</a>
+<b>⯈ Download Patch:</b> <a href="https://github.com/DerekPascarella/Pu-Li-Ru-La-Expanded-RAM-Patch-FM-Towns-Marty/raw/refs/heads/main/Pu-Li-Ru-La%20(Marty%20Expanded%20RAM).zip">Pu-Li-Ru-La (Marty Expanded RAM).zip</a>
 
 <h2>Patching Instructions</h2>
 
@@ -31,7 +31,7 @@ This patch release includes a custom patch-applying kit. It specifically targets
 To apply the patches, follow the steps below.
 <br>
 <ol type="1">
-  <li>Extract the <a href="xxx">latest release package ZIP</a> to any folder of your choosing. </li>
+  <li>Extract the <a href="https://github.com/DerekPascarella/Pu-Li-Ru-La-Expanded-RAM-Patch-FM-Towns-Marty/raw/refs/heads/main/Pu-Li-Ru-La%20(Marty%20Expanded%20RAM).zip">latest release package ZIP</a> to any folder of your choosing. </li>
   <li>Place the entire Redump disc image in the <tt>redump_original</tt> folder. </li>
   <li>Launch the <tt>apply_patch.bat</tt> script and watch for status messages as it applies the patch. </li>
   <li>Upon successful completion, patched disc images will reside in the <tt>patched_disc_image_cue_bin</tt> and <tt>patched_disc_image_ccd_img_sub</tt> folders. These disc images are acceptable for burning to CD-R, using with an ODE, or using with an emulator. </li>

@@ -1,6 +1,6 @@
 <h1>Pu-Li-Ru-La</h1>
 
-<img align="right" width="156" src="https://github.com/DerekPascarella/Pu-Li-Ru-La-Expanded-RAM-Patch-FM-Towns-Marty/blob/main/cover.jpg?raw=true">This patch allows the game "Pu-Li-Ru-La" to run with extended features when using an aftermarket 2 MB RAM add-on with the FM Towns Marty.
+<img align="right" width="156" src="https://github.com/DerekPascarella/Pu-Li-Ru-La-Expanded-RAM-Patch-FM-Towns-Marty/blob/main/cover.jpg?raw=true">This patch allows the game "Pu-Li-Ru-La" to run with extended features when using an aftermarket RAM add-on with the FM Towns Marty. Note that this extended mode runs very slowly when the console has 4 MB of total RAM, but runs smoothly when it has only 3 MB.
 <br><br>
 Under normal circumstances, the game does both a memory check and a machine-type check. If one of the following conditions is met, "Pu-Li-Ru-La" is locked to 2 MB mode.
 
@@ -10,7 +10,7 @@ Under normal circumstances, the game does both a memory check and a machine-type
   <li>The game is running on a first-generation FM Towns desktop.</li>
 </ul>
 
-This patch removes that check, thus forcing the game to boot into "3MB of RAM or greater" mode, no matter what.
+This patch removes that check, thus forcing the game to boot into "3 MB of RAM or greater" mode, no matter what.
 <br><br>
 The following changes can be observed with "Pu-Li-Ru-La" running in this extended RAM mode.
 
